@@ -4,7 +4,7 @@ Hi there I am Akash
 
 ### 📈 Github Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thesacredcoder)](https://github.com/sacredcoder)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thesacredcoder&show_icons=true&theme=apprentice)](https://github.com/sacredcoder)
 
 ### Technical Skills 
 
